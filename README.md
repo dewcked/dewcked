@@ -12,6 +12,8 @@
 - Golang
 - Rust
 - ECMAScript
+- Plantuml hack, data modeling
+- shell scripting, automation
 
 ### 💘 What I always try to focus on
 
