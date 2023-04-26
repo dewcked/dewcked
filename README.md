@@ -42,3 +42,7 @@
 - Update/Remake Streamlinkerino
 - Write documents about privacy tools and settings
 - TBD
+
+### Is this page has a license?
+
+[YES](LICENSE.txt), just for fun..?
