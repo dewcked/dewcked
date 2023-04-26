@@ -1,1 +1,41 @@
-Reading, Analyzing, Collecting any files in this repository with any kind of automated program is not allowed
+[MIT license](https://en.wikipedia.org/wiki/MIT_License) for non-commercial use, Paid license for commercial use.
+
+Commercial use includes all kinds of business done by companies, government, or organizations excluding non-profit organizations.
+
+--- non commercial use ---
+
+  MIT License
+
+  Copyright (c) 2023 dewcked
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.
+
+--- commercial use ---
+
+  contact email dewcked@protonmail.ch
+
+=== STATEMENT AGINST AI-ASSISTED CODING TOOLS ===
+
+1. AI-assisted coding tools/AI code generators learn from unknown open source codes. This causes the user to directly or indirectly infringe on the license for that open source.
+2. AI-assisted coding tools/AI code generators directly violate the license of open source code used to learn on its own
+3. AI-assisted coding tools/AI code generators makes the final license unclear.
+4. Privatization and paid-for AI-assisted coding tools/AI code generators are likely to pose a major threat to the open-source ecosystem.
+5. The copyright on the output of the AI tools is unclear.
+6. Humans make mistakes, and AI learns human-made code. Although it may be more sophisticated than humans in repetitive operations, AI-generated code is not perfect.
+7. There is a problem that AI cannot judge right or wrong. Bias may exist in AI.
